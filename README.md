@@ -17,6 +17,7 @@ Our team work on Xenium data for the SpaceHack 2022
 - [ ] robustness to noise at each step
 - [ ] Simulation by subseting 
 - [ ] Simulation by purturbing segmentation boundries 
+- [ ] Xenium to ISS transformation simulation
 	
 ### Initial QC metrics --> **Elyas and Art0m | Txsim**
 - [ ] scFFPEseq vs. scRNAseq vs. Xenium
