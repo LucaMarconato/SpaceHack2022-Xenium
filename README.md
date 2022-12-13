@@ -17,13 +17,13 @@ Our team work on Xenium data for the SpaceHack 2022
 - [ ] Other segmentation methods
 - [ ] Using the H&E image
 	
-### Robustness --> **Luca and Gleb | Txsim** 
+### Robustness --> **Luca and Gleb | Txsim/MCMICRO** 
 - [ ] robustness to noise at each step
 - [ ] Simulation by subseting 
 - [ ] Simulation by purturbing segmentation boundries 
 - [ ] Xenium to ISS transformation simulation
 	
-### Initial QC metrics --> **Elyas and Art0m | Txsim**
+### Initial QC metrics --> **Elyas and Art0m | Txsim/MCMICRO**
 - [ ] scFFPEseq vs. scRNAseq vs. Xenium
 - [ ] cell type transferability 
 	
