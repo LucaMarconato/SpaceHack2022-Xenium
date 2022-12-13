@@ -77,9 +77,11 @@ cd ..
 git clone https://github.com/giovp/spatialdata-sandbox
 ```
 
-Additional dependecies (will be removed in the future):
+Additional dependecies:
 ```
-mamba install -c ome bioformats2raw
+# this dependency will be removed in the future
+mamba install -c ome bioformats2raw 
+pip install dask_image
 ```
 
 # Hello world
