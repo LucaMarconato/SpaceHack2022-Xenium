@@ -55,7 +55,7 @@ conda activate spacehack
 
 git clone --single-branch --branch temp/spacehack2022 https://github.com/scverse/spatialdata
 cd spatialdata
-pip install -e .[all]
+pip install -e ".[all]"
 ```
 
 You need additional packages for reading standard datasets and for visualization.
