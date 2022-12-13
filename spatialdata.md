@@ -68,7 +68,7 @@ pip install -e .
 
 # for visualization with napari
 cd ..
-git clone --single-branch --branch spatialdata https://github.com/giovp/napari-spatialdata
+git clone --single-branch --branch spatialdata https://github.com/scverse/napari-spatialdata
 cd napari-spatialdata
 pip install -e .
 
@@ -79,7 +79,9 @@ git clone https://github.com/giovp/spatialdata-sandbox
 
 Additional dependecies (will be removed in the future):
 ```
-mamba install -c ome bioinformats2raw
+mamba install -c ome bioformats2raw
+# a user reported the pyarrow was not installed automatically from the .toml file, so you may need to do
+pip install pyarrow
 ```
 
 # Hello world
