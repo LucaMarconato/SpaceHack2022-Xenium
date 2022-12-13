@@ -140,5 +140,5 @@ Interactive(sdata)
 - There will be importer from the main commercial spatial companies and converter to R
 - Squidpy will use `SpatialData` as a backend and so it will be possible to analyze data with it.
 - Useful processing functions like rasterization, spatial cropping/subsetting, aggregation signals from multiple layers (e.g. counting single-molecule points inside regions) will be available.
-- We are in contact with the Vitessce devs to support the visualization with it.
-- It will be possible to combine and visualizae spatial elements from the local storage and from the cloud (partial support already in ome-zarr-py and napari).
+- Napari at the moment doesn't cover the use case of data in a remote machine used for developmemnt (typical Jupyter setup). We are in contact with the Vitessce devs to explore the visualization with it. 
+- In the future it will be possible to combine and visualize spatial elements from the local storage and from cloud storage containers (partial support already in ome-zarr-py and napari).
