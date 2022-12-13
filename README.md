@@ -34,11 +34,11 @@ Our team work on Xenium data for the SpaceHack 2022
 - [ ] spatially variable genes
 - [ ] Visium deconv.
 	
-### Cell typing --> **Elyas, Art0m, Olga? | Txsim**
+### Cell typing --> **Elyas, Art0m, Olga | Txsim**
 - [ ] defining QC metrics
 - [ ] maybe look into SpatialTX
 	
-### Finding clones in space --> **Art0m and Olga?**
+### Finding clones in space --> **Art0m and Olga**
 - [ ] H&E annotation for ducts/domains
 - [ ] Visium based + Xenium + H&E
 	
