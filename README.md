@@ -9,9 +9,13 @@ Our team work on Xenium data for the SpaceHack 2022
 
 ## Biohakcathon 2022::Xenium omni-workflow (a potential plan)
 
-### infrastructure --> **Luca and Gleb | Txsim**
+### infrastructure --> **Luca and Gleb | Txsim/MCMICRO**
 - [ ] having a single step-wise workflow 
 - [ ] effect of method choice for each step
+
+### Segmentation refinement by integration --> **Gleb and Art1m | Txsim/MCMICRO**
+- [ ] Other segmentation methods
+- [ ] Using the H&E image
 	
 ### Robustness --> **Luca and Gleb | Txsim** 
 - [ ] robustness to noise at each step
@@ -35,7 +39,7 @@ Our team work on Xenium data for the SpaceHack 2022
 - [ ] spatially variable genes
 - [ ] Visium deconv.
 	
-### Cell typing --> **Elyas, Art0m, Olga | Txsim**
+### Cell typing --> **Elyas, Art0m, Olga | Txsim/MCMICRO**
 - [ ] defining QC metrics
 - [ ] maybe look into SpatialTX
 	
