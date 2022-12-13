@@ -1,8 +1,13 @@
 # SpaceHack2022-Xenium
 Our team work on Xenium data for the SpaceHack 2022
 
-## A potential plan
-## Biohakcathon 2022::Xenium omni-workflow
+## Resources
+- [SpatialData quick start](spatialdata.md)
+
+## Slides
+- [Google slides for results](https://docs.google.com/presentation/d/1uDC-YL4miMirfymsOrJFC4NmRo4JcPb1iX5XEZXXNoI/edit#slide=id.p)
+
+## Biohakcathon 2022::Xenium omni-workflow (a potential plan)
 
 ### infrastructure --> **Luca and Gleb | Txsim**
 - [ ] having a single step-wise workflow 
@@ -39,12 +44,3 @@ Our team work on Xenium data for the SpaceHack 2022
 	
 ### Post processing --> **Elays and Art0m**
 - [ ] ideas for cell-cell comm. 
-
-## Data
-- [SpatialData quick start](spatialdata.md)
-
-## Tools
-
-## Slides
-- [Google slides for results](https://docs.google.com/presentation/d/1uDC-YL4miMirfymsOrJFC4NmRo4JcPb1iX5XEZXXNoI/edit#slide=id.p)
-
