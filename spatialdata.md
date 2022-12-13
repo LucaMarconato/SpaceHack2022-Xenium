@@ -80,8 +80,6 @@ git clone https://github.com/giovp/spatialdata-sandbox
 Additional dependecies (will be removed in the future):
 ```
 mamba install -c ome bioformats2raw
-# a user reported the pyarrow was not installed automatically from the .toml file, so you may need to do
-pip install pyarrow
 ```
 
 # Hello world
