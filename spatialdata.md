@@ -79,7 +79,7 @@ git clone https://github.com/giovp/spatialdata-sandbox
 
 Additional dependecies (will be removed in the future):
 ```
-mamba install -c ome bioinformats2raw
+mamba install -c ome bioformats2raw
 ```
 
 # Hello world
