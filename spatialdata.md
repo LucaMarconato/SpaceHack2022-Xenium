@@ -1,5 +1,7 @@
 <img src='https://github.com/giovp/spatialdata-sandbox/raw/main/graphics/overview.png'/>
 
+*A beta version to the library is not out yet. This introduction has been written for being able to use a preview of SpatialData during SpaceHack2022. Stability and usability will improve and you may have to expect breaking changes in the APIs and storage.*
+
 # What is SpatialData?
 SpatialData is a library for reading, writing, representing in memory and preprocessing arbitrary multi-sample, multi-omics spatial datasets from any technology.
 
@@ -56,6 +58,7 @@ conda activate spacehack
 git clone --single-branch --branch temp/spacehack2022 https://github.com/scverse/spatialdata
 cd spatialdata
 pip install -e ".[all]"
+# use git pull regularly to stay up-to-date
 ```
 
 You need additional packages for reading standard datasets and for visualization.
@@ -65,16 +68,19 @@ cd ..
 git clone https://github.com/scverse/spatialdata-io
 cd spatialdata-io
 pip install -e .
+# use git pull regularly to stay up-to-date
 
 # for visualization with napari
 cd ..
 git clone --single-branch --branch spatialdata https://github.com/scverse/napari-spatialdata
 cd napari-spatialdata
 pip install -e .
+# use git pull regularly to stay up-to-date
 
 # repo with example codes with various datasets
 cd ..
 git clone https://github.com/giovp/spatialdata-sandbox
+# use git pull regularly to stay up-to-date
 ```
 
 Additional dependecies:
