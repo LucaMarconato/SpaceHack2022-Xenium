@@ -47,7 +47,7 @@ make html
 
 # Installation
 
-Please clone and do an editable install the ["temp/spacehack2022" branch](https://github.com/scverse/spatialdata/tree/temp/spacehack2022) of the "spatialdata" repo:
+Please clone and do an editable install of the ~~["temp/spacehack2022" branch](https://github.com/scverse/spatialdata/tree/temp/spacehack2022)~~ [main branch](https://github.com/scverse/spatialdata) of the "spatialdata" repo:
 ```bash=
 # Python 3.9 and 3.10 are supported
 
@@ -55,7 +55,7 @@ Please clone and do an editable install the ["temp/spacehack2022" branch](https:
 conda create -n spacehack python=3.10
 conda activate spacehack
 
-git clone --single-branch --branch temp/spacehack2022 https://github.com/scverse/spatialdata
+git clone https://github.com/scverse/spatialdata
 cd spatialdata
 pip install -e ".[all]"
 # use git pull regularly to stay up-to-date
